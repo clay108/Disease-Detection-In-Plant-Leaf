@@ -41,11 +41,7 @@ Each model represents hours of fine-tuning and optimization to ensure top-notch 
 - VGG19-  https://www.kaggle.com/datasets/clay108/vgg19-123
 
 
-### Web Application:
-Experience the magic of our plant disease detection system firsthand with our user-friendly web application.
-Upload leaf images effortlessly and receive instant disease predictions powered by our trained models.
 
-- https://plantdiseasedetection-dcsdauimdapwhj73ebbt9c.streamlit.app/
 
 ### References:
 Delve into the wealth of knowledge that informed our project's methodology and approach. 
