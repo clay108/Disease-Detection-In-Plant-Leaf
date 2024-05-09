@@ -48,8 +48,7 @@ Delve into the wealth of knowledge that informed our project's methodology and a
 Explore research papers, articles, and resources that shaped our understanding and guided our decisions.
 ** Link given in Documantation
 
-### Important Links:
-Access essential links to our deployed web application, notebooks, datasets, and trained models for seamless navigation and exploration.
+
 
 
 ### Join us in our quest to revolutionize agriculture and make a tangible difference in the lives of farmers and communities worldwide. Together, let's cultivate a future where technology safeguards crops, ensures food security, and fosters sustainable agriculture practices.
