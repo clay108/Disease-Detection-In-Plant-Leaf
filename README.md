@@ -46,7 +46,7 @@ Each model represents hours of fine-tuning and optimization to ensure top-notch 
 ### References:
 Delve into the wealth of knowledge that informed our project's methodology and approach. 
 Explore research papers, articles, and resources that shaped our understanding and guided our decisions.
-** Link given in Documantation
+
 
 
 
